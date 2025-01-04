@@ -27,8 +27,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: [your-email@domain.com]
-- GitHub: [your-github-profile]
+- Email: [lcgarza10@gmail.com]
+- GitHub: [lcgarza10]
 
 ## Legal Disclaimer
 This application is an independent publication and has not been authorized, sponsored, or otherwise approved by any professional sports league or organization. All team names, logos, and related information displayed in the app are used for informational purposes only.
